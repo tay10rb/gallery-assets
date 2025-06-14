@@ -2005,5 +2005,4043 @@
       }
     },
     "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0827",
+    "title": "IMG 0827",
+    "description": "",
+    "dateTaken": "2025-04-05T15:13:16.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0827.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0827.webp",
+    "blurhash": "LeIhXd#jbwo#L4S%M{WVM_Nysonh",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0827.JPG",
+    "lastModified": "2025-06-14T11:53:39.422Z",
+    "size": 9762551,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T15:13:16.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 15478
+      },
+      "Photo": {
+        "ExposureTime": 0.00025,
+        "FNumber": 1.8,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T15:13:16.000Z",
+        "DateTimeDigitized": "2025-04-05T15:13:16.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 12,
+        "ApertureValue": 1.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 50,
+        "SubSecTime": "63",
+        "SubSecTimeOriginal": "63",
+        "SubSecTimeDigitized": "63",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          50,
+          50,
+          0,
+          0
+        ],
+        "LensModel": "RF50mm F1.8 STM",
+        "LensSerialNumber": "4911031352"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSC_1221",
+    "title": "DSC 1221",
+    "description": "",
+    "dateTaken": "2025-04-05T15:11:29.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/DSC_1221.JPG",
+    "thumbnailUrl": "/thumbnails/DSC_1221.webp",
+    "blurhash": "T@KnxWRPa^_NspR+XnjJogOXW;jG",
+    "width": 3712,
+    "height": 5568,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "DSC_1221.JPG",
+    "lastModified": "2025-06-14T12:00:01.425Z",
+    "size": 6378475,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z50_2",
+        "Orientation": 8,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "Software": "Ver.01.00",
+        "DateTime": "2025-04-05T15:11:29.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 352,
+        "GPSTag": 42408
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 42536,
+        "JPEGInterchangeFormatLength": 10510,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.0004,
+        "FNumber": 1.4,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-04-05T15:11:29.000Z",
+        "DateTimeDigitized": "2025-04-05T15:11:29.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 2,
+        "ExposureBiasValue": -1.3333333333333333,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 50,
+        "SubSecTime": "67",
+        "SubSecTimeOriginal": "67",
+        "SubSecTimeDigitized": "67",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 5568,
+        "PixelYDimension": 3712,
+        "InteroperabilityTag": 42376,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CFAPattern": {
+          "0": 2,
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 2
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 1,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 75,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "8024030",
+        "LensSpecification": [
+          50,
+          50,
+          1.4,
+          1.4
+        ],
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z 50mm f/1.4",
+        "LensSerialNumber": "20004165",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0631",
+    "title": "IMG 0631",
+    "description": "",
+    "dateTaken": "2025-04-05T14:13:07.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0631.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0631.webp",
+    "blurhash": "TmI$1jbeWG_4kEWVNFRkWBM~WBof",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0631.JPG",
+    "lastModified": "2025-06-14T12:11:30.934Z",
+    "size": 11852430,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T14:13:07.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 214,
+        "GPSTag": 26062
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 26176,
+        "JPEGInterchangeFormatLength": 8167
+      },
+      "Photo": {
+        "59933": -110,
+        "ExposureTime": 0.002,
+        "FNumber": 5.6,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 250,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 250,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T14:13:07.000Z",
+        "DateTimeDigitized": "2025-04-05T14:13:07.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 9,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 66,
+        "SubSecTime": "00",
+        "SubSecTimeOriginal": "00",
+        "SubSecTimeDigitized": "00",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 25940,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSC_1059",
+    "title": "DSC 1059",
+    "description": "",
+    "dateTaken": "2025-04-05T14:08:22.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/DSC_1059.JPG",
+    "thumbnailUrl": "/thumbnails/DSC_1059.webp",
+    "blurhash": "LtQT1EWB~q%M%Mofj[WBozofV@Rj",
+    "width": 5568,
+    "height": 3712,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC_1059.JPG",
+    "lastModified": "2025-06-14T12:04:26.415Z",
+    "size": 3103896,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z50_2",
+        "Orientation": 1,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "Software": "Ver.01.00",
+        "DateTime": "2025-04-05T14:08:22.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 352,
+        "GPSTag": 42408
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 42536,
+        "JPEGInterchangeFormatLength": 8137,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.025,
+        "FNumber": 6.3,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-04-05T14:08:22.000Z",
+        "DateTimeDigitized": "2025-04-05T14:08:22.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 2,
+        "ExposureBiasValue": -3,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 100,
+        "SubSecTime": "27",
+        "SubSecTimeOriginal": "27",
+        "SubSecTimeDigitized": "27",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 5568,
+        "PixelYDimension": 3712,
+        "InteroperabilityTag": 42376,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CFAPattern": {
+          "0": 2,
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 2
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 1,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 150,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "8024030",
+        "LensSpecification": [
+          50,
+          250,
+          4.5,
+          6.3
+        ],
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
+        "LensSerialNumber": "20459340",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0607",
+    "title": "IMG 0607",
+    "description": "",
+    "dateTaken": "2025-04-05T13:53:00.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0607.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0607.webp",
+    "blurhash": "L89jJ|9ZEK$+~Dj^RhR.0d%1#j9u",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0607.JPG",
+    "lastModified": "2025-06-14T11:57:15.854Z",
+    "size": 6097913,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T13:53:00.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 14226
+      },
+      "Photo": {
+        "ExposureTime": 0.002,
+        "FNumber": 7.1,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 320,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 320,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T13:53:00.000Z",
+        "DateTimeDigitized": "2025-04-05T13:53:00.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 9,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 146,
+        "SubSecTime": "68",
+        "SubSecTimeOriginal": "68",
+        "SubSecTimeDigitized": "68",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSC_1044",
+    "title": "DSC 1044",
+    "description": "",
+    "dateTaken": "2025-04-05T13:52:44.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/DSC_1044.JPG",
+    "thumbnailUrl": "/thumbnails/DSC_1044.webp",
+    "blurhash": "TPGSAWM{?b-:%MxvS~j[jG_Mf6M{",
+    "width": 3712,
+    "height": 5568,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "DSC_1044.JPG",
+    "lastModified": "2025-06-14T12:07:55.455Z",
+    "size": 6167591,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z50_2",
+        "Orientation": 8,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "Software": "Ver.01.00",
+        "DateTime": "2025-04-05T13:52:44.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 352,
+        "GPSTag": 42408
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 42536,
+        "JPEGInterchangeFormatLength": 10803,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.0125,
+        "FNumber": 6.3,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-04-05T13:52:44.000Z",
+        "DateTimeDigitized": "2025-04-05T13:52:44.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 2,
+        "ExposureBiasValue": -3,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 120,
+        "SubSecTime": "09",
+        "SubSecTimeOriginal": "09",
+        "SubSecTimeDigitized": "09",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 5568,
+        "PixelYDimension": 3712,
+        "InteroperabilityTag": 42376,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CFAPattern": {
+          "0": 2,
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 2
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 1,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 180,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "8024030",
+        "LensSpecification": [
+          50,
+          250,
+          4.5,
+          6.3
+        ],
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
+        "LensSerialNumber": "20459340",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0576",
+    "title": "IMG 0576",
+    "description": "",
+    "dateTaken": "2025-04-05T13:28:41.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0576.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0576.webp",
+    "blurhash": "L5BM$1004T?d00tTE4xu9D-?_49E",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0576.JPG",
+    "lastModified": "2025-06-14T12:11:30.171Z",
+    "size": 10477388,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T13:28:41.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 16828
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 5,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 160,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 160,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T13:28:41.000Z",
+        "DateTimeDigitized": "2025-04-05T13:28:41.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 4.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 55,
+        "SubSecTime": "19",
+        "SubSecTimeOriginal": "19",
+        "SubSecTimeDigitized": "19",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSC_1011",
+    "title": "DSC 1011",
+    "description": "",
+    "dateTaken": "2025-04-05T13:15:20.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/DSC_1011.JPG",
+    "thumbnailUrl": "/thumbnails/DSC_1011.webp",
+    "blurhash": "LCFYotR#.ARN8w0KV=o$?a%h9EV@",
+    "width": 5568,
+    "height": 3712,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC_1011.JPG",
+    "lastModified": "2025-06-14T12:07:23.275Z",
+    "size": 5644539,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z50_2",
+        "Orientation": 1,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "Software": "Ver.01.00",
+        "DateTime": "2025-04-05T13:15:20.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 352,
+        "GPSTag": 42408
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 42536,
+        "JPEGInterchangeFormatLength": 10486,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.0125,
+        "FNumber": 6.3,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-04-05T13:15:20.000Z",
+        "DateTimeDigitized": "2025-04-05T13:15:20.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 2,
+        "ExposureBiasValue": -3,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 145,
+        "SubSecTime": "47",
+        "SubSecTimeOriginal": "47",
+        "SubSecTimeDigitized": "47",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 5568,
+        "PixelYDimension": 3712,
+        "InteroperabilityTag": 42376,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CFAPattern": {
+          "0": 2,
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 2
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 1,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 217,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "8024030",
+        "LensSpecification": [
+          50,
+          250,
+          4.5,
+          6.3
+        ],
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
+        "LensSerialNumber": "20459340",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0510",
+    "title": "IMG 0510",
+    "description": "",
+    "dateTaken": "2025-04-05T12:43:45.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0510.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0510.webp",
+    "blurhash": "LxGl=3oen$bdFkbHa#WXNha}WVjY",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0510.JPG",
+    "lastModified": "2025-06-14T11:53:53.285Z",
+    "size": 13581069,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:43:45.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 19577
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 5,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:43:45.000Z",
+        "DateTimeDigitized": "2025-04-05T12:43:45.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 4.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 55,
+        "SubSecTime": "51",
+        "SubSecTimeOriginal": "51",
+        "SubSecTimeDigitized": "51",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSC_0961",
+    "title": "DSC 0961",
+    "description": "",
+    "dateTaken": "2025-04-05T12:38:13.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/DSC_0961.JPG",
+    "thumbnailUrl": "/thumbnails/DSC_0961.webp",
+    "blurhash": "LGE{tZ~XWc.75300DitQ_M%MNGxu",
+    "width": 5568,
+    "height": 3712,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC_0961.JPG",
+    "lastModified": "2025-06-14T12:01:59.367Z",
+    "size": 6299185,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z50_2",
+        "Orientation": 1,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "Software": "Ver.01.00",
+        "DateTime": "2025-04-05T12:38:13.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 352,
+        "GPSTag": 42408
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 42536,
+        "JPEGInterchangeFormatLength": 8972,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.003125,
+        "FNumber": 4.5,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-04-05T12:38:13.000Z",
+        "DateTimeDigitized": "2025-04-05T12:38:13.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 2,
+        "ExposureBiasValue": -5,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 50,
+        "SubSecTime": "29",
+        "SubSecTimeOriginal": "29",
+        "SubSecTimeDigitized": "29",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 5568,
+        "PixelYDimension": 3712,
+        "InteroperabilityTag": 42376,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CFAPattern": {
+          "0": 2,
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 2
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 1,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 75,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "8024030",
+        "LensSpecification": [
+          50,
+          250,
+          4.5,
+          6.3
+        ],
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
+        "LensSerialNumber": "20459340",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "DSC_0951",
+    "title": "DSC 0951",
+    "description": "",
+    "dateTaken": "2025-04-05T12:31:08.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/DSC_0951.JPG",
+    "thumbnailUrl": "/thumbnails/DSC_0951.webp",
+    "blurhash": "LBEooI010M$h0J~qw0IVKO4oRWNb",
+    "width": 5568,
+    "height": 3712,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC_0951.JPG",
+    "lastModified": "2025-06-14T12:02:05.937Z",
+    "size": 7347278,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z50_2",
+        "Orientation": 1,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "Software": "Ver.01.00",
+        "DateTime": "2025-04-05T12:31:08.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 352,
+        "GPSTag": 42408
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 300,
+        "YResolution": 300,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 42536,
+        "JPEGInterchangeFormatLength": 8196,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 4.8,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-04-05T12:31:08.000Z",
+        "DateTimeDigitized": "2025-04-05T12:31:08.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 2,
+        "ExposureBiasValue": -5,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 77,
+        "SubSecTime": "46",
+        "SubSecTimeOriginal": "46",
+        "SubSecTimeDigitized": "46",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 5568,
+        "PixelYDimension": 3712,
+        "InteroperabilityTag": 42376,
+        "SensingMethod": 2,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CFAPattern": {
+          "0": 2,
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 2
+        },
+        "CustomRendered": 1,
+        "ExposureMode": 1,
+        "WhiteBalance": 0,
+        "FocalLengthIn35mmFilm": 115,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "BodySerialNumber": "8024030",
+        "LensSpecification": [
+          50,
+          250,
+          4.5,
+          6.3
+        ],
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
+        "LensSerialNumber": "20459340",
+        "CompositeImage": 1
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0486",
+    "title": "IMG 0486",
+    "description": "",
+    "dateTaken": "2025-04-05T12:29:21.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0486.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0486.webp",
+    "blurhash": "LQIihZ08~Rx9r9$vNKt3R3sjR.bd",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0486.JPG",
+    "lastModified": "2025-06-14T11:52:56.043Z",
+    "size": 7280515,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:29:21.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 214,
+        "GPSTag": 26062
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 26176,
+        "JPEGInterchangeFormatLength": 4926
+      },
+      "Photo": {
+        "59933": -110,
+        "ExposureTime": 0.0025,
+        "FNumber": 5.6,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:29:21.000Z",
+        "DateTimeDigitized": "2025-04-05T12:29:21.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 85,
+        "SubSecTime": "81",
+        "SubSecTimeOriginal": "81",
+        "SubSecTimeDigitized": "81",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 25940,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0480",
+    "title": "IMG 0480",
+    "description": "",
+    "dateTaken": "2025-04-05T12:27:58.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0480.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0480.webp",
+    "blurhash": "LYA2m4s$WFW[I~WajEa#nfjsj=oG",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0480.JPG",
+    "lastModified": "2025-06-14T12:08:08.174Z",
+    "size": 9726883,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:27:58.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 14827
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 6.3,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:27:58.000Z",
+        "DateTimeDigitized": "2025-04-05T12:27:58.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 5.375,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 103,
+        "SubSecTime": "20",
+        "SubSecTimeOriginal": "20",
+        "SubSecTimeDigitized": "20",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0464",
+    "title": "IMG 0464",
+    "description": "",
+    "dateTaken": "2025-04-05T12:22:57.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0464.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0464.webp",
+    "blurhash": "T77A*j%3S$~St5NG$_X3RQx[oza$",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0464.JPG",
+    "lastModified": "2025-06-14T12:06:44.348Z",
+    "size": 5083914,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:22:57.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 214,
+        "GPSTag": 26062
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 26176,
+        "JPEGInterchangeFormatLength": 4858
+      },
+      "Photo": {
+        "59933": -110,
+        "ExposureTime": 0.0025,
+        "FNumber": 5.6,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:22:57.000Z",
+        "DateTimeDigitized": "2025-04-05T12:22:57.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 83,
+        "SubSecTime": "38",
+        "SubSecTimeOriginal": "38",
+        "SubSecTimeDigitized": "38",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 25940,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0460",
+    "title": "IMG 0460",
+    "description": "",
+    "dateTaken": "2025-04-05T12:21:29.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0460.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0460.webp",
+    "blurhash": "LpIFZA%jskxu=ps%tSax-oWARmog",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0460.JPG",
+    "lastModified": "2025-06-14T12:06:16.212Z",
+    "size": 8272220,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:21:29.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 20406
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 5,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:21:29.000Z",
+        "DateTimeDigitized": "2025-04-05T12:21:29.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 4.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 55,
+        "SubSecTime": "15",
+        "SubSecTimeOriginal": "15",
+        "SubSecTimeDigitized": "15",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0456",
+    "title": "IMG 0456",
+    "description": "",
+    "dateTaken": "2025-04-05T12:17:25.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0456.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0456.webp",
+    "blurhash": "TTHWA|b|R:t:V?V?4:nhozI^tSof",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0456.JPG",
+    "lastModified": "2025-06-14T11:53:20.477Z",
+    "size": 4467620,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:17:25.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 12693
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 7.1,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:17:25.000Z",
+        "DateTimeDigitized": "2025-04-05T12:17:25.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 191,
+        "SubSecTime": "40",
+        "SubSecTimeOriginal": "40",
+        "SubSecTimeDigitized": "40",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0418",
+    "title": "IMG 0418",
+    "description": "",
+    "dateTaken": "2025-04-05T12:06:03.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0418.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0418.webp",
+    "blurhash": "L47BsO%jR3jDL}VqbxWBHqV?aHg4",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0418.JPG",
+    "lastModified": "2025-06-14T11:52:49.711Z",
+    "size": 8667881,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:06:03.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 13903
+      },
+      "Photo": {
+        "ExposureTime": 0.001,
+        "FNumber": 7.1,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:06:03.000Z",
+        "DateTimeDigitized": "2025-04-05T12:06:03.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 10,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 210,
+        "SubSecTime": "65",
+        "SubSecTimeOriginal": "65",
+        "SubSecTimeDigitized": "65",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0412",
+    "title": "IMG 0412",
+    "description": "",
+    "dateTaken": "2025-04-05T12:05:38.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0412.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0412.webp",
+    "blurhash": "LE7n%*ogWAj]t:j]f5fkVpaybHay",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0412.JPG",
+    "lastModified": "2025-06-14T11:52:33.485Z",
+    "size": 8101190,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T12:05:38.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 12426
+      },
+      "Photo": {
+        "ExposureTime": 0.001,
+        "FNumber": 7.1,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T12:05:38.000Z",
+        "DateTimeDigitized": "2025-04-05T12:05:38.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 10,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 210,
+        "SubSecTime": "07",
+        "SubSecTimeOriginal": "07",
+        "SubSecTimeDigitized": "07",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0385",
+    "title": "IMG 0385",
+    "description": "",
+    "dateTaken": "2025-04-05T11:56:26.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0385.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0385.webp",
+    "blurhash": "TNIib5-p%i?w-=t900t8tSIBWBRi",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0385.JPG",
+    "lastModified": "2025-06-14T11:56:56.286Z",
+    "size": 5962501,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T11:56:26.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 214,
+        "GPSTag": 26062
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 26176,
+        "JPEGInterchangeFormatLength": 4842
+      },
+      "Photo": {
+        "59933": -110,
+        "ExposureTime": 0.002,
+        "FNumber": 5,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T11:56:26.000Z",
+        "DateTimeDigitized": "2025-04-05T11:56:26.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 9,
+        "ApertureValue": 4.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 55,
+        "SubSecTime": "27",
+        "SubSecTimeOriginal": "27",
+        "SubSecTimeDigitized": "27",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 25940,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0364",
+    "title": "IMG 0364",
+    "description": "",
+    "dateTaken": "2025-04-05T11:51:33.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0364.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0364.webp",
+    "blurhash": "TfH{y[%2Ri.Axuj@MwxvofemWBad",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0364.JPG",
+    "lastModified": "2025-06-14T11:56:20.859Z",
+    "size": 7898118,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T11:51:33.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 214,
+        "GPSTag": 26062
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 26176,
+        "JPEGInterchangeFormatLength": 3980
+      },
+      "Photo": {
+        "59933": -110,
+        "ExposureTime": 0.002,
+        "FNumber": 6.3,
+        "ExposureProgram": 1,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T11:51:33.000Z",
+        "DateTimeDigitized": "2025-04-05T11:51:33.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 9,
+        "ApertureValue": 5.375,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 91,
+        "SubSecTime": "83",
+        "SubSecTimeOriginal": "83",
+        "SubSecTimeDigitized": "83",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 25940,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 1,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0338",
+    "title": "IMG 0338",
+    "description": "",
+    "dateTaken": "2025-04-05T10:21:29.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0338.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0338.webp",
+    "blurhash": "TOHea%~p4nDzRi%M%2WC%LD*M{t6",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0338.JPG",
+    "lastModified": "2025-06-14T12:01:09.308Z",
+    "size": 11270573,
+    "exif": {
+      "bigEndian": true,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T10:21:29.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 214,
+        "GPSTag": 26062
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 26176,
+        "JPEGInterchangeFormatLength": 7200
+      },
+      "Photo": {
+        "59933": -110,
+        "ExposureTime": 0.01,
+        "FNumber": 7.1,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T10:21:29.000Z",
+        "DateTimeDigitized": "2025-04-05T10:21:29.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 6.625,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 100,
+        "SubSecTime": "06",
+        "SubSecTimeOriginal": "06",
+        "SubSecTimeDigitized": "06",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 25940,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0335",
+    "title": "IMG 0335",
+    "description": "",
+    "dateTaken": "2025-04-05T10:21:18.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0335.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0335.webp",
+    "blurhash": "LJFYfN~p4n9F%Dt2WCs.D%M{xu%N",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0335.JPG",
+    "lastModified": "2025-06-14T12:00:47.531Z",
+    "size": 10367280,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T10:21:18.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 20627
+      },
+      "Photo": {
+        "ExposureTime": 0.01,
+        "FNumber": 7.1,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T10:21:18.000Z",
+        "DateTimeDigitized": "2025-04-05T10:21:18.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 6.625,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 116,
+        "SubSecTime": "08",
+        "SubSecTimeOriginal": "08",
+        "SubSecTimeDigitized": "08",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0289",
+    "title": "IMG 0289",
+    "description": "",
+    "dateTaken": "2025-04-05T10:16:17.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0289.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0289.webp",
+    "blurhash": "LgLNun~ptQo#ISIVt7xuR*bJs:NF",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0289.JPG",
+    "lastModified": "2025-06-14T12:00:15.092Z",
+    "size": 8691261,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-04-05T10:16:17.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 20150
+      },
+      "Photo": {
+        "ExposureTime": 0.004,
+        "FNumber": 7.1,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 200,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 200,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-04-05T10:16:17.000Z",
+        "DateTimeDigitized": "2025-04-05T10:16:17.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 50,
+        "SubSecTime": "81",
+        "SubSecTimeOriginal": "81",
+        "SubSecTimeDigitized": "81",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          50,
+          50,
+          0,
+          0
+        ],
+        "LensModel": "RF50mm F1.8 STM",
+        "LensSerialNumber": "4911031352"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0249",
+    "title": "IMG 0249",
+    "description": "",
+    "dateTaken": "2025-03-30T17:52:49.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0249.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0249.webp",
+    "blurhash": "LRHAtS5S58%1~ARlM|xs5T$$slbH",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0249.JPG",
+    "lastModified": "2025-06-14T12:10:52.892Z",
+    "size": 5191474,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T17:52:49.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 10331
+      },
+      "Photo": {
+        "ExposureTime": 0.0015625,
+        "FNumber": 6.3,
+        "ExposureProgram": 8,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T17:52:49.000Z",
+        "DateTimeDigitized": "2025-03-30T17:52:49.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 9.375,
+        "ApertureValue": 5.375,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 130,
+        "SubSecTime": "46",
+        "SubSecTimeOriginal": "46",
+        "SubSecTimeDigitized": "46",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0240",
+    "title": "IMG 0240",
+    "description": "",
+    "dateTaken": "2025-03-30T17:48:34.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0240.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0240.webp",
+    "blurhash": "LUECqPxae.t7_Ns:fPof?boeofof",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0240.JPG",
+    "lastModified": "2025-06-14T12:14:21.318Z",
+    "size": 7548077,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T17:48:34.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 10276
+      },
+      "Photo": {
+        "ExposureTime": 0.0025,
+        "FNumber": 6.3,
+        "ExposureProgram": 8,
+        "ISOSpeedRatings": 640,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 640,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T17:48:34.000Z",
+        "DateTimeDigitized": "2025-03-30T17:48:34.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.625,
+        "ApertureValue": 5.375,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 87,
+        "SubSecTime": "09",
+        "SubSecTimeOriginal": "09",
+        "SubSecTimeDigitized": "09",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0203",
+    "title": "IMG 0203",
+    "description": "",
+    "dateTaken": "2025-03-30T17:33:23.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0203.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0203.webp",
+    "blurhash": "L5C$.LT1000101^$%eNI~BIqNFxV",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0203.JPG",
+    "lastModified": "2025-06-14T12:14:16.947Z",
+    "size": 7060851,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T17:33:23.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 12223
+      },
+      "Photo": {
+        "ExposureTime": 0.0008,
+        "FNumber": 7.1,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 2500,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 2500,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T17:33:23.000Z",
+        "DateTimeDigitized": "2025-03-30T17:33:23.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 10.375,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 196,
+        "SubSecTime": "91",
+        "SubSecTimeOriginal": "91",
+        "SubSecTimeDigitized": "91",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0198",
+    "title": "IMG 0198",
+    "description": "",
+    "dateTaken": "2025-03-30T17:29:30.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0198.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0198.webp",
+    "blurhash": "THFiDRkC.7^5R%M{~Xt7D%-mxZtR",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0198.JPG",
+    "lastModified": "2025-06-14T12:14:32.380Z",
+    "size": 9975381,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T17:29:30.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 15982
+      },
+      "Photo": {
+        "ExposureTime": 0.003125,
+        "FNumber": 5.6,
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 6400,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 6400,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T17:29:30.000Z",
+        "DateTimeDigitized": "2025-03-30T17:29:30.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.375,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 83,
+        "SubSecTime": "69",
+        "SubSecTimeOriginal": "69",
+        "SubSecTimeDigitized": "69",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0194",
+    "title": "IMG 0194",
+    "description": "",
+    "dateTaken": "2025-03-30T17:28:03.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0194.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0194.webp",
+    "blurhash": "L7C~bY029boy01~A%1Rk00bb?Fs.",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0194.JPG",
+    "lastModified": "2025-06-14T12:14:01.820Z",
+    "size": 6696828,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T17:28:03.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 12028
+      },
+      "Photo": {
+        "ExposureTime": 0.003125,
+        "FNumber": 6.3,
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T17:28:03.000Z",
+        "DateTimeDigitized": "2025-03-30T17:28:03.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.375,
+        "ApertureValue": 5.375,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 65,
+        "SubSecTime": "13",
+        "SubSecTimeOriginal": "13",
+        "SubSecTimeDigitized": "13",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0175",
+    "title": "IMG 0175",
+    "description": "",
+    "dateTaken": "2025-03-30T17:13:11.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0175.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0175.webp",
+    "blurhash": "TBDl.$cYIU?IM|j]D$s.tR_NtRa#",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0175.JPG",
+    "lastModified": "2025-06-14T12:11:13.668Z",
+    "size": 5683321,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T17:13:11.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 19089
+      },
+      "Photo": {
+        "ExposureTime": 0.003125,
+        "FNumber": 5.6,
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 250,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 250,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T17:13:11.000Z",
+        "DateTimeDigitized": "2025-03-30T17:13:11.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 8.375,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 66,
+        "SubSecTime": "36",
+        "SubSecTimeOriginal": "36",
+        "SubSecTimeDigitized": "36",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0156",
+    "title": "IMG 0156",
+    "description": "",
+    "dateTaken": "2025-03-30T16:52:57.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0156.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0156.webp",
+    "blurhash": "LEJSn+?^KmtTAgDibykWTgozH=kX",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0156.JPG",
+    "lastModified": "2025-06-14T12:10:36.738Z",
+    "size": 5263195,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T16:52:57.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 10955
+      },
+      "Photo": {
+        "ExposureTime": 0.00025,
+        "FNumber": 5.6,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 3200,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 3200,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T16:52:57.000Z",
+        "DateTimeDigitized": "2025-03-30T16:52:57.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 12,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 57,
+        "SubSecTime": "77",
+        "SubSecTimeOriginal": "77",
+        "SubSecTimeDigitized": "77",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0153",
+    "title": "IMG 0153",
+    "description": "",
+    "dateTaken": "2025-03-30T16:50:20.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0153.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0153.webp",
+    "blurhash": "LVD,Qf*0ITibjcR*s;nhPAxvwKNG",
+    "width": 6000,
+    "height": 4000,
+    "aspectRatio": 1.5,
+    "s3Key": "IMG_0153.JPG",
+    "lastModified": "2025-06-14T12:11:36.194Z",
+    "size": 6392467,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T16:50:20.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 13014
+      },
+      "Photo": {
+        "ExposureTime": 0.001,
+        "FNumber": 7.1,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 3200,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 3200,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T16:50:20.000Z",
+        "DateTimeDigitized": "2025-03-30T16:50:20.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 10,
+        "ApertureValue": 5.625,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 210,
+        "SubSecTime": "04",
+        "SubSecTimeOriginal": "04",
+        "SubSecTimeDigitized": "04",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0143",
+    "title": "IMG 0143",
+    "description": "",
+    "dateTaken": "2025-03-30T16:44:24.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0143.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0143.webp",
+    "blurhash": "T=L|v6WokC?wo2t7I:M{ofR5Rjay",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0143.JPG",
+    "lastModified": "2025-06-14T12:11:10.737Z",
+    "size": 5788087,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T16:44:24.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 12269
+      },
+      "Photo": {
+        "ExposureTime": 0.00025,
+        "FNumber": 5.6,
+        "ExposureProgram": 3,
+        "ISOSpeedRatings": 3200,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 3200,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T16:44:24.000Z",
+        "DateTimeDigitized": "2025-03-30T16:44:24.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 12,
+        "ApertureValue": 5,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 77,
+        "SubSecTime": "29",
+        "SubSecTimeOriginal": "29",
+        "SubSecTimeDigitized": "29",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 1,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
+  },
+  {
+    "id": "IMG_0074",
+    "title": "IMG 0074",
+    "description": "",
+    "dateTaken": "2025-03-30T15:53:17.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://hu-r2.mwwlzz.top/IMG_0074.JPG",
+    "thumbnailUrl": "/thumbnails/IMG_0074.webp",
+    "blurhash": "TAFiS_OZu6BD-;Z#00M{aJ4TIUx]",
+    "width": 4000,
+    "height": 6000,
+    "aspectRatio": 0.6666666666666666,
+    "s3Key": "IMG_0074.JPG",
+    "lastModified": "2025-06-14T12:11:20.390Z",
+    "size": 6045553,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "Canon",
+        "Model": "Canon EOS R10",
+        "Orientation": 8,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "DateTime": "2025-03-30T15:53:17.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 360,
+        "GPSTag": 26362
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "JPEGInterchangeFormat": 28660,
+        "JPEGInterchangeFormatLength": 12068
+      },
+      "Photo": {
+        "ExposureTime": 0.00125,
+        "FNumber": 8,
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 200,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 200,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 49
+        },
+        "DateTimeOriginal": "2025-03-30T15:53:17.000Z",
+        "DateTimeDigitized": "2025-03-30T15:53:17.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "ShutterSpeedValue": 9.625,
+        "ApertureValue": 6,
+        "ExposureBiasValue": 0,
+        "MeteringMode": 5,
+        "Flash": 0,
+        "FocalLength": 210,
+        "SubSecTime": "65",
+        "SubSecTimeOriginal": "65",
+        "SubSecTimeDigitized": "65",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 6000,
+        "PixelYDimension": 4000,
+        "InteroperabilityTag": 26049,
+        "FocalPlaneXResolution": 6825.938566552901,
+        "FocalPlaneYResolution": 6825.938566552901,
+        "FocalPlaneResolutionUnit": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "BodySerialNumber": "344033004177",
+        "LensSpecification": [
+          55,
+          210,
+          0,
+          0
+        ],
+        "LensModel": "RF-S55-210mm F5-7.1 IS STM",
+        "LensSerialNumber": "4842004868"
+      },
+      "GPSInfo": {
+        "GPSVersionID": [
+          2,
+          3,
+          0,
+          0
+        ]
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    },
+    "isLivePhoto": false
   }
 ]
